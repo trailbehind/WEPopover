@@ -19,7 +19,7 @@
     "Foundation",
     "UIKit"
   ],
-  "requires_arc": false,
+  "requires_arc": true,
   "source_files": "Classes/Popover/**/*.{c,m,h}",
   "resources": "Resources/Popover/**/*.*"
 }
